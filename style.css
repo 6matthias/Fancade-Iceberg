@@ -74,3 +74,9 @@ body {
     color: red;
     text-shadow: 2px 2px 1px black;
 }
+
+.entry:hover, .entry:active {
+    font-size: 135%;
+    color: coral;
+    cursor: pointer;
+}
