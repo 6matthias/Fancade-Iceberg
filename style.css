@@ -27,7 +27,13 @@ h1 {
     text-align: center;
     font-size: 80px;
     padding: 40px;
+    padding-bottom: 1px;
     font-family: sans-serif;
+}
+
+#formLink {
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 #iceberg {
@@ -79,4 +85,36 @@ body {
     font-size: 135%;
     color: coral;
     cursor: pointer;
+}
+
+#newDescription {
+    width: 450px;
+    height: 175px;
+}
+
+#formContainer {
+    background-color: rgb(203, 228, 222);
+    height: fit-content;
+    max-width: 450px;
+    width: fit-content;
+    padding: 15px;
+    margin: auto;
+}
+
+#rawDataDisplayBackgorund {
+    margin: 5px;
+    margin-top: 35px;
+    padding: 5px;
+    background-color: rgb(44, 51, 51);
+}
+
+#rawDataDisplayBackgorund p {
+    color: aliceblue;
+}
+
+#submitForm {
+    margin: 20px;
+    margin-left: 5px;
+    padding: 15px;
+
 }

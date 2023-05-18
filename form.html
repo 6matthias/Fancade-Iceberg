@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fancade Iceberg Edit Form</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="formCode.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="formContainer">
+        <h2> FC Iceberg edit form </h1>
+        <br>
+        <input type="checkbox" id="editCheck" name="editCheck">
+        <label for="editCheck"> I am requesting an edit</label><br>
+        <p></p>
+        <label for="editChoice">(If applicable) choose an entry to edit:</label>
+
+        <select name="editChoice" id="editChoice" disabled>
+        </select>
+        <p></p>
+        <input type="text" id="newKey" placeholder="This is a title">
+        <p></p>
+        <textarea id="newDescription" placeholder="This is a detailed description"></textarea>
+        <small>Tip: Add links to the description to add attachments!</small><br>
+        <input type="number" id="newTier" placeholder="Tier 0-9">
+        <input type="text" id="credits" placeholder="Signature/Your Name">
+        <p></p>
+        <button type="button" onclick="undo()">↶</button>
+        <button type="button" onclick="redo()">↷</button>
+        <div id="rawDataDisplayBackgorund">
+            <p id="rawDataDisplay">Raw message will be displayed here!</p>
+        </div>
+        <p></p>
+        <button id="submitForm" onclick="submit()">Submit</button> <br>
+        <small>Notice: this will open your emailing service with filled in information from above.</small>
+    </div>
+</body>
+
+</html>
