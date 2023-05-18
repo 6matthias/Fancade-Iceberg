@@ -40,5 +40,19 @@
     "tier": 1,
     "description": "Old, scrapped, and repurposed feature of fancade. Now known as Gems.",
     "attachments": []
+  },
+  "How to Troll Fancade Users": {
+    "tier": 9,
+    "description": "A Unknown User who post a black video in front of the #memes channel",
+    "attachments": [
+      "https://media.discordapp.net/attachments/887688551523835925/887739564498763848/SPOILER_how_to_troll_fancade_users.mp4"
+    ],
+    "credits": "MrCrocodile"
+  },
+  "Version 1.7.2": {
+    "tier": 3,
+    "description": "The smallest Fancade update in existance. The update log simply reads 'Fixed: Blob Level 5'",
+    "attachments": [],
+    "credits": "thacuber2a03"
   }
 }
