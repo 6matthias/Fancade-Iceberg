@@ -51,8 +51,310 @@
   },
   "Version 1.7.2": {
     "tier": 3,
-    "description": "The smallest Fancade update in existance. The update log simply reads 'Fixed: Blob Level 5'",
+    "description": "The smallest Fancade update in existance. The \\ update log simply reads \"Fixed: Blob Level 5\"",
     "attachments": [],
     "credits": "thacuber2a03"
+  },
+  "Fanjam": {
+    "tier": 0,
+    "description": "A game-jam competition that was managed by Sounak9434. Given a theme, participants are given 3 days to finish to script a game. Then players must vote for the best games in each category. For ease of voting, the Featured section would be temporarily replaced with Fanjam games. After voting, the first-place participants are given the Fanjam role (or lower place if a participant gets multiple first-places). Due to Sounak's retirement of being Fanmod, it is currently unknown which Fanmod will manage the event.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "r/Fancade": {
+    "tier": 1,
+    "description": "Fancade's official subreddit. Has minimum activity but it's unmoderated.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Fanweek": {
+    "tier": 1,
+    "description": "Was previously a server-only weekly event by Spolarium which spawned in a lot of new innovative games, to the point that Martin took interest and joined in the server to keep a good idea of what's happening. Fanweek went through a rough phase and was on a hiatus for a while until the creator of Fanweek was promoted to a Fanmod on the Fancade server, making Fanweek an official weekly competition.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Hidden Credits": {
+    "tier": 1,
+    "description": "Before Fancade v1.11, swiping left on the quest screen re-reveals the intro menu, swiping left again will reveal the hidden credits scrolling on the console. Since then, tapping on the console found on the You tab two times scrolls the credits.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Fancode": {
+    "tier": 1,
+    "description": "A programming competition by Sounak9434. Users participating has 72 hours to either create the minimal amount of scripts or the fastest execution time. After time has passed, correct scripts get verified, then the best scripts awarded users with the Scripter role. Only two rounds have appeared, both in early 2022. Sounak9434 has since retired and said the competition is taxing and the channel may probably get removed.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "Ooppp": {
+    "tier": 2,
+    "description": "Mysterious game creator which stays quiet despite the confusion around him. Gained traction when Martin featured them once. Ooppp created some better than average games on Fancade, what makes the creator mysterious is that all games they publish are unnamed (Which defaults to \"New Game\"). As Ooppp deletes all of his games after a while, Martin refrained from featuring them because of this.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Meme chain": {
+    "tier": 2,
+    "description": "An occurrence in the #memes channel on the Fancade Discord server from late 2020 that included over a hundred memes, each meme containing the picture of the meme before in reference. This took off and potentially harmed the activity of the channel, average reactions on memes dropped down after this event.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "iOS \"new\" removal": {
+    "tier": 2,
+    "description": "The iOS version from Fancade v1.1 onwards was limited temporarily to have no new section. New games showed up on the application once every feature update.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Profile pic cults": {
+    "tier": 2,
+    "description": "Referencing the waves of similar profile pictures the server experiences occasionally, where a great number of people copy or imitate a particular profile picture somebody else has. Such examples include cubies, tilesenses, hexagon cult, orimojis, and Spolarium.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "#clubhouse": {
+    "tier": 3,
+    "description": "Fanmods' hidden chat in Discord, barely ever mentioned by the moderators outside of that chat.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "#memes slowmode": {
+    "tier": 3,
+    "description": "Referring to the style of moderation taken to keep the memes channel on Discord to minimize the amount of chatter. It was set to 6h. For a short while it was removed, but was put back up again. Today, this is auto-moderated by Fanbot, and conversations use threads.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "2 Betas": {
+    "tier": 3,
+    "description": "Although a lot of people are applied for beta testing, there's actually a secondary beta that is given to a few hand-selected people for testing before the version is released to the bigger crowd of testers.",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "Old emojis": {
+    "tier": 3,
+    "description": "Self-explanatory, there were other emojis before the moderators gave them a make-over.",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "R3DZ3R Lore": {
+    "tier": 3,
+    "description": "Lots of background behind this veteran Fancade user. R3DZ3R is currently known to be one of the most featured creators in Fancade with over 90 games (including alts) in the spotlight cycle. He is also notoriously known for creating many alt accounts. There's a lot of lore behind this user due to his own followers or hobbies outside of Fancade. One of the most known ones is the art of this user, a certain innocent piece called EAT.gif was discussed a lot due to the animation being resembled to vore. Another lesser known art piece by a follower reveals that his OC isn't a flower, but is actually a red cube with red furry ears. Currently he posts daily art on Twitter, and music on YouTube under the tag @R3DZ3R_Florie.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "April 1st 2020": {
+    "tier": 3,
+    "description": "Coordinated prank on Discord by the moderators. This is the most notable among all of April Fools pranks.",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/887688551523835925/887707861906489344/Screenshot_20200401-210300_Discord2.png"
+    ],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Old distance script": {
+    "tier": 4,
+    "description": "Fancade version 1.3.1 changed the art for the distance script block, reason being for a \"more correct Distance script block icon\".",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/887688551523835925/887701355173671002/220.png"
+    ],
+    "credits": "AngryRubberDucky"
+  },
+  "Banned minors": {
+    "tier": 4,
+    "description": "This entry is referring to the members under the age of 13 that get instantly banned off the Discord once revealing their age. This is due to Discord's TOS.",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "Nothing": {
+    "tier": 4,
+    "description": "\"Nothing\" is a game by Sounak9434 which features cryptic instructions of how to beat said game. For one to beat the game, the user had to decode stuff like Morse Code or prison knocking signals, obviously aimed at people with enough patience and intellect. In one portion of the puzzle, users were given a link to a Discord server.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Fancade Profiles": {
+    "tier": 4,
+    "description": "Semi-popular third party Fancade server owned by Ani#8856, which had a personal channel for all Fancade users that joined which can be used as a diary. Server has since been deleted :(.",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "Obama memes": {
+    "tier": 4,
+    "description": "A once funny trend on the Discord server that was abused and slowly was referred to as spam. The \"Obama awarding a medal to Obama\" meme had extended popularity in the server, used mostly when Martin features his own games.",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "You tab repeated taps": {
+    "tier": 4,
+    "description": "Tapping the \"You\" button consecutively 5 times will reveal your user ID. Tapping it 20 times would give you a few extra options such as removing your premium, resetting your world progress, and sending your world progression to Martin, but as of current version (v1.11) you could only reset Quest.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Jagaimo No Shikan": {
+    "tier": 5,
+    "description": "Jagaimo No Shikan, known as PotatoChronicler, a user considered a veteran but was banned from the Discord due to his behavior. Martin explained that he's just banned from the Discord, but his activity with Fancade faded ever since the ban. Unbanned on 12/12/21",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "__/40": {
+    "tier": 5,
+    "description": "Known as game bonanza, this was the former Discord status of Spolarium, which would indicate how many games he has done (out of 40).",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "Default floppy disk image": {
+    "tier": 5,
+    "description": "Referring to the boot-loader image on the floppy disk in the intro. Shows up rarely. ",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "Gobble = Vore": {
+    "tier": 5,
+    "description": "The game \"Gobble\" was compared to vore by some people, taken originally from the first version of Fancade Iceberg made by Origedit.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / Origedit"
+  },
+  "GM tutorials": {
+    "tier": 5,
+    "description": "Fancade beginner-friendly tutorials on YouTube that went unnoticed, GM is Martin Magni's mother.",
+    "attachments": [
+      "https://www.youtube.com/watch?v=02eFv8x-1zM"
+    ],
+    "credits": "AngryRubberDucky"
+  },
+  "Web search": {
+    "tier": 5,
+    "description": "Web search used to be available, but it has shut down since August 11, 2021. It was more versatile as regex expressions were allowed on the search. However, it would take within 48 hours before the search engine can index it.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "#colloquy": {
+    "tier": 6,
+    "description": "The older name for the since-hidden #discussion, it is described as the more serious form of #off-topic, with a cooldown. The reason it has been hidden is because it was partly being used for advertising and not for the intended purpose.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "Old perspective": {
+    "tier": 6,
+    "description": "Much older versions of Fancade had perspective, as this was shown in the old screenshots by Martin himself. Those screenshots also had lighting on it. The feature has since been added in Fancade v1.8.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Dash Cat": {
+    "tier": 6,
+    "description": "Old version of Dash which featured a cat as the player.",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "Oddbot Legs": {
+    "tier": 6,
+    "description": "An illustration of Odd Bot with human legs by Origedit.",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/887688551523835925/887722704885665792/SPOILER_odd_feet.png"
+    ],
+    "credits": "AngryRubberDucky"
+  },
+  "Nannings": {
+    "tier": 6,
+    "description": "The person with the name of NanningsGames is the first ever person documented to ever plagiarize Fancade games in the history of Fancade. Games included are: Stacktris by Martin Magni, Power Boxes by LukaszM, Cubice Deluxe by nmskr, Colid by Helipton, Color It by Baraa03 (is also sold on Steam), Infiniwire by R3DZ3R, Box Factory by RF.",
+    "attachments": [],
+    "credits": "just kirb / u-ndefined"
+  },
+  "Animated emoji": {
+    "tier": 6,
+    "description": "Toxel posted an animated .gif in #fancade that Sounak9434 decided to add it only if it gets 30 reactions. The community was able to reach this feat, and the emoji got added. After about 1 week, it was removed by Sounak since no one inside the community was able to use it.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "Fantris": {
+    "tier": 6,
+    "description": "This was a very popular game put in Quest created by Mathias Elgaard that cloned the original Tetris game. This game was taken down to prevent problems due to copyright laws.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "MediaPlayDiscord": {
+    "tier": 7,
+    "description": "Hand in hand with the entry 'Banned minors'. MediaPlayDiscord, also known as MPD, is a third-party exclusive discord server. This server is known to be the toxic side of the Fancade community and the members consists of the people that were banned from the official Discord due to being underage. This server spawned in the Cubies profile picture trend, profile pictures with original characters made from a cube/square, usually illustrated outside of Fancade.",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "status-0 (1022)": {
+    "tier": 7,
+    "description": "Supposedly rare FC PC bug that infects your project and locks it from ever being published/updated, this bugs effects the core of the project and there is nothing the user can do to fix it unless everything is copied to another fresh new project. The bug may still appear again, even after the migration of the of game's internals.\n...Or at least that's what everybody thought, the real problem was that the character '?' in the description blocked the game from being published and resulted in that error code. Bug fix was found by user LukaszM. ",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "A New Color!": {
+    "tier": 7,
+    "description": "A game series which hacked the Fancade editor. The creator of these games, which had the name GLITCHED and variants of it (e.g. NO END GLITCH3D), changed the floppy disk colors to colors unavailable for usage in Fancade. Editing the game and opening up the background color tab would sometimes crash the game. The creator would also somehow able to steal and publish an uneditable game.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Time Exploit": {
+    "tier": 7,
+    "description": "An exploit in Fancade that lets you skip timers by changing the time on your local device.",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "@everyone incident": {
+    "tier": 7,
+    "description": "Incident that happened on October 2021. G-Progress attempted to ping everyone on the channel #fancade as \"I cannot give reply\". Martin disliked it and so muted the user. This led to ResinoSixer and Baraa03 jokingly making a message also trying to ping everyone, which they were muted shortly after.",
+    "attachments": [],
+    "credits": "just kirb / u-ndefined"
+  },
+  "Chick 1st FC mascot": {
+    "tier": 7,
+    "description": "Self explanatory, before Pinky and Oddbot, the Ditto chick was Fancade's mascot, represented on the game icon. ",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Vicvic96": {
+    "tier": 8,
+    "description": "An employee of Frogmind who joined the Fancade Discord server to invite experienced creators to a new game developing app similar to Fancade now known as HypeHype. When this event occurred, HypeHype was still in its early development stages and nobody involved in testing was allowed to talk about it outside of testing. Martin allowed this but Fancade users did not know and a lot suspected that this was some sort of scam until Vicvic and Martin had to release a public status explaining what's happening.",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "Memory World": {
+    "tier": 8,
+    "description": "A Fancade game by Mark8 which are depressing edits in black and white of popular kits. You win by dying.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "#minecraft": {
+    "tier": 8,
+    "description": "This channel on Fancade was the Minecraft server hosted by Mathias on July 2020. Unfortunately it got discontinued as Mathias lost (and consequently locked) the credit card he was using to pay the server.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "Empty Game": {
+    "tier": 8,
+    "description": "For a brief moment, Hello World, the first published game by Martin Magni was renamed to Empty Game, and was put to Kits in about February 2020. As the title says, there were no contents in the game, as opposed to the grassy blocks of text.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "Soonak": {
+    "tier": 8,
+    "description": "During Mathias Elgaard's stream of Fanjam 10 (Snake Variations), Mathias proceeded to mispronounce Sounak9434's name. Sounak then decided to change nickname to \"Soonak\" for a while. ",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "Sounak NSFW meme": {
+    "tier": 9,
+    "description": "After James1236 made a joke script called \"Lick Sensor\", Sounak9434 did a follow up joke by posting a video with people licking their phone on #memes. What Sounak didn't notice is that the footage was for an app made for \"Oral sex practice\" with imagery of a vagina on the screen, mistaking it for a \"Cool gradient background\". Sounak deleted the video after a few people pointed it out. ",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "\"30 miljoner nedladdningar\"": {
+    "tier": 9,
+    "description": "Lesser known Swedish interview with Martin that discusses his success with Mekorama and his plans with Fancade. Went unnoticed and was advertised by Martin less compared to Martin's mini-documentary. ",
+    "attachments": [],
+    "credits": "AngryRubberDucky"
+  },
+  "Music Easter egg": {
+    "tier": 9,
+    "description": "An easter egg in Fancade's music before v1.10, originally found by \"just kirb#2810\". The chords that make up the theme are F-A-|| (pause)-C-A-D-E.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Fantris is still playable": {
+    "tier": 9,
+    "description": "Yes, it is still possible to play the game. To see why, projects that are unpublished, or shared (but not published) are considered unlisted. At one portion of a link from a Fanbot search contains the current format for the Fancade link. Therefore it is possible to extract it using a past search for Fantris. ",
+    "attachments": [],
+    "credits": "u-ndefined"
   }
 }
