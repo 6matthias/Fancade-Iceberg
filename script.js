@@ -7,13 +7,13 @@ $(document).ready(function() {
 
     $("#iceberg").append(`<img src="assets/icebergImage.png" id="icebergImage">`) //Add image
 
-    var tmpImg = new Image();
-    tmpImg.src = "assets/icebergImage.png"
-
     $.getJSON('https://raw.githubusercontent.com/6matthias/Fancade-Iceberg/main/assets/data.json', function(data) {
         for (const [key, value] of Object.entries(data)) {
             $(`#tier`+data[key].tier).append(`<p class="entry">${key}</p>`)
         }
+
+        var tmpImg = new Image();
+        tmpImg.src = "assets/icebergImage.png"
 
         $(tmpImg).one('load',function(){ //wait for image to load
             $("#webContainer").css("max-width", tmpImg.width + "px") //Get iceberg image size and set the website container to be it's width size
