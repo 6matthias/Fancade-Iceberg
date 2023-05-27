@@ -42,6 +42,8 @@ $(document).ready(function() {
             $("#webContainer").css("max-width", maxW) //Get iceberg image size and set the website container to be it's width size
             $("#infoSection").css("max-width", maxW)
             $(".tier").fitText(4)
+
+            $("#blackout").fadeOut("slow")
         });
 
         $(document).on('click', '.entry', function () {
@@ -52,8 +54,6 @@ $(document).ready(function() {
 
             showInfo(true)
         });
-
-        $("#blackout").fadeOut("slow")
 
     });
 
