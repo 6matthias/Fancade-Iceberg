@@ -281,10 +281,10 @@
     "attachments": [],
     "credits": "AngryRubberDucky"
   },
-  "status-0 (1022)": {
+  "status-0": {
     "tier": 7,
-    "description": "Supposedly rare FC PC bug that infects your project and locks it from ever being published/updated, this bugs effects the core of the project and there is nothing the user can do to fix it unless everything is copied to another fresh new project. The bug may still appear again, even after the migration of the of game's internals.\n...Or at least that's what everybody thought, the real problem was that the character '?' in the description blocked the game from being published and resulted in that error code. Bug fix was found by user LukaszM. ",
-    "attachments": [],
+    "description": "The error displayed whenever something unexpected goes wrong on PC, this includes anomalies on projects that trigger this error upon publishing. First occurrence of this was the Status-0 (1022) error which was a bug that occurred when a game with a question mark in the description was being published, the bug was fixed since then after LukaszM discovered what triggered this error. However, unknown Status-0 do still occur on rare circumstances and persist on the project, preventing it from ever being published.",
+    "attachments": ["https://media.discordapp.net/attachments/464440412116090880/910712987046805564/20211118_084949.jpg"],
     "credits": "AngryRubberDucky"
   },
   "A New Color!": {

@@ -1,3 +1,25 @@
+var infoShow = false
+
+function showInfo(show) {
+    if(show == infoShow){
+        return
+    }
+
+    let scroll = $("#webContainer").scrollTop()
+
+    if (show) {
+        $("#infoSection").show()
+        $("#webContainer").animate({height: "75vh"}, "slow")
+        $("#infoSection").animate({height: "25vh"}, "slow")
+        $("#webContainer").scrollTop(scroll)
+    } else {
+        $("#infoSection").animate({height: "0vh"}, "slow")
+        $("#webContainer").animate({height: "100vh"}, "slow")
+    }
+
+    infoShow = show
+}
+
 $(document).ready(function() {
 
     for(i = 0; i<10; i++) {
@@ -16,10 +38,25 @@ $(document).ready(function() {
         tmpImg.src = "assets/icebergImage.png"
 
         $(tmpImg).one('load',function(){ //wait for image to load
-            $("#webContainer").css("max-width", tmpImg.width + "px") //Get iceberg image size and set the website container to be it's width size
+            let maxW = tmpImg.width + "px"
+            $("#webContainer").css("max-width", maxW) //Get iceberg image size and set the website container to be it's width size
+            $("#infoSection").css("max-width", maxW)
             $(".tier").fitText(4)
         });
 
+        $(document).on('click', '.entry', function () {
+            let clickEntry = jQuery(this).text()
+            $("#entryTitle").text(clickEntry)
+            $("#entryCredits").text("• "+data[clickEntry].credits)
+            $("#entryDescription").text(data[clickEntry].description)
+
+            showInfo(true)
+        });
+
+        $("#blackout").fadeOut("slow")
+
     });
+
+
 
 })
