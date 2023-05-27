@@ -136,12 +136,22 @@ body {
     bottom: 0px;
     border-top: 5px solid black;
     display: none;
+    overflow: auto;
 }
 
 #entryTitle {
-    font-size: 60px;
+    font-size: 10vmin;
     padding-top: 10px;
+    padding-bottom: 10px;
     text-shadow: 5px 5px black;
+    text-align: center;
+    text-overflow: clip;
+}
+
+@media screen and (min-width: 700px) {
+    #entryTitle {
+        font-size: 7vmin;
+  }
 }
 
 .entryInfo {
@@ -161,7 +171,6 @@ body {
     height: 100%;
     margin-left: auto;
     margin-right: auto;
-    overflow: auto;
 }
 
 #blackout {
