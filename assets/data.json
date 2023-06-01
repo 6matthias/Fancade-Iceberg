@@ -38,10 +38,10 @@
     "credits": "AngryRubberDucky"
   },
   "Old Music": {
-    "tier": 1,
-    "description": "Before the current theme that was added on 17/05/2022, there used to be 2 other themes which were composed by Martin. The first theme got removed on 20/11/2019 by another piece of music that was written using the same notes and chords as the previous.",
+    "tier": 3,
+    "description": "Early versions of Fancade had menu music arranged by Martin Magni and his father. The first piece had the vibe of a music box and later got replaced by a more energetic piece known for its slow yet impactful synth. The third piece was made by Disasterpeace and Aaron Cherof. It was added to fancade on its major 1.10 update",
     "attachments": [],
-    "credits": "AngryRubberDucky"
+    "credits": "Origedit"
   },
   "Fangold": {
     "tier": 1,
@@ -83,9 +83,9 @@
   },
   "Hidden Credits": {
     "tier": 1,
-    "description": "Before Fancade v1.11, swiping left on the quest screen re-reveals the intro menu, swiping left again will reveal the hidden credits scrolling on the console. Since then, tapping on the console found on the You tab two times scrolls the credits.",
+    "description": "Before Fancade v1.11, fancade showed a cinematic view of the fantasy console on startup. The intro could be found by swiping right at the Quest section and rewinded using horisontal dragging. Dragging revealed the credits.Even though the scene was awesome, it was so inaccessible that it became considered a hidden feature by many. Eventually the credits scene became more obvious after a major rearrangement in the main menu.",
     "attachments": [],
-    "credits": "AngryRubberDucky / u-ndefined"
+    "credits": "Anonymous / AngryRubberDucky / u-ndefined"
   },
   "Fancode": {
     "tier": 1,
@@ -281,10 +281,10 @@
     "attachments": [],
     "credits": "AngryRubberDucky"
   },
-  "status-0": {
+  "status-0 (1022)": {
     "tier": 7,
-    "description": "The error displayed whenever something unexpected goes wrong on PC, this includes anomalies on projects that trigger this error upon publishing. First occurrence of this was the Status-0 (1022) error which was a bug that occurred when a game with a question mark in the description was being published, the bug was fixed since then after LukaszM discovered what triggered this error. However, unknown Status-0 do still occur on rare circumstances and persist on the project, preventing it from ever being published.",
-    "attachments": ["https://media.discordapp.net/attachments/464440412116090880/910712987046805564/20211118_084949.jpg"],
+    "description": "Supposedly rare FC PC bug that infects your project and locks it from ever being published/updated, this bugs effects the core of the project and there is nothing the user can do to fix it unless everything is copied to another fresh new project. The bug may still appear again, even after the migration of the of game's internals.\n...Or at least that's what everybody thought, the real problem was that the character '?' in the description blocked the game from being published and resulted in that error code. Bug fix was found by user LukaszM. ",
+    "attachments": [],
     "credits": "AngryRubberDucky"
   },
   "A New Color!": {
@@ -331,9 +331,9 @@
   },
   "Empty Game": {
     "tier": 8,
-    "description": "For a brief moment, Hello World, the first published game by Martin Magni was renamed to Empty Game, and was put to Kits in about February 2020. As the title says, there were no contents in the game, as opposed to the grassy blocks of text.",
+    "description": "For a brief moment, Hello World, the first published game was renamed to Empty Game, and was put at the top of Kits in about February 2020. As the title says, there were no contents in the game. Martin reasoned that in the future updates creating a new game would require editing Empty Game. The fancaders didn't like this change, so the game was changed back to Hello World.",
     "attachments": [],
-    "credits": "u-ndefined"
+    "credits": "Anonymous / u-ndefined"
   },
   "Soonak": {
     "tier": 8,
@@ -355,7 +355,7 @@
   },
   "Music Easter egg": {
     "tier": 9,
-    "description": "An easter egg in Fancade's music before v1.10, originally found by \"just kirb#2810\" after a community wide effort when Martin was discussing on the discord server that nobody has yet found this easter egg. The chords that make up the theme are F-A-|| (pause)-C-A-D-E.",
+    "description": "An easter egg in Fancade's music before v1.10, originally found by \"just kirb#2810\". The chords that make up the theme are F-A-|| (pause)-C-A-D-E.",
     "attachments": [],
     "credits": "AngryRubberDucky / u-ndefined"
   },
@@ -374,6 +374,26 @@
       "https://discord.com/channels/409219533618806786/520112989416718346/1094226750105452564",
       "https://discord.com/channels/409219533618806786/520112989416718346/1094227396971995136"
     ],
-    "credits": "Just Kirb"
+    "credits": "Anonymous / Just Kirb"
+  },
+  "Messages/Message games": {
+    "tier": 1,
+    "description": "Messages or message games is a way Fancade users that don't have any chatting programs, such as Discord can exchange messages with each other. They are really simple: Just a flat background with some comment blocks that form sentences. The messages started in around May of 2022.",
+    "attachments": [],
+    "credits": "Pixel8453"
+  },
+  "Characters": {
+    "tier": 6,
+    "description": "The game editor used to have a Characters folder with random characters, most colored yellow. They were meant to be used as pre-made tools interacting with the game being built, as well as an easy start for new scripters.Some characters were nothing more than Martin's experiments and their presence made fancade inconsistent. Eventually the characters were made fully editable and put into the game Stock Blocks. The Characters folder was made hidden",
+    "attachments": [],
+    "credits": "Origedit"
+  },
+  "Fancade Hacked APK's": {
+    "tier": 9,
+    "description": "A Fancade hacked APK's refers to an Android application package file that has been modified or altered from its original version by unauthorized individuals or groups. These modifications are typically done to bypass restrictions, unlock premium features, unlimited gems, remove ads, or gain unfair advantages in games. Most of these hacks are not legitimate and include harmful viruses. Due to these hacks, most gems in circulation are not paid for and end up in the pockets of the creators of games with shops.",
+    "attachments": [
+      "https://media.discordapp.net/attachments/849514514374066218/1112062333557153904/Screenshot_2023-05-28-00-58-16-312_com.android.chrome-edit.jpg"
+    ],
+    "credits": "AngryRubberDucky / MrCrocodile"
   }
 }
