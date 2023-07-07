@@ -65,8 +65,10 @@
   },
   "Fanjam": {
     "tier": 0,
-    "description": "A game-jam competition that was managed by Sounak9434. Given a theme, participants are given 3 days to finish to script a game. Then players must vote for the best games in each category. For ease of voting, the Featured section would be temporarily replaced with Fanjam games. After voting, the first-place participants are given the Fanjam role (or lower place if a participant gets multiple first-places). Due to Sounak's retirement of being Fanmod, it is currently unknown which Fanmod will manage the event.",
-    "attachments": [],
+    "description": "A game-jam competition previously managed by Sounak9434, and currently by Spolarium. Given a theme, participants are given 3 days to finish to script a game. Then players must vote for the best games in each category. For ease of voting, the Featured section would be temporarily replaced with Fanjam games. After voting, the first-place participants are given the Fanjam role (or lower place if a participant gets multiple first-places).",
+    "attachments": [
+      "https://www.fancade.com/wiki/events/fanjam"
+    ],
     "credits": "u-ndefined"
   },
   "r/Fancade": {
@@ -88,8 +90,8 @@
     "credits": "Anonymous / AngryRubberDucky / u-ndefined"
   },
   "Fancode": {
-    "tier": 1,
-    "description": "A programming competition by Sounak9434. Users participating has 72 hours to either create the minimal amount of scripts or the fastest execution time. After time has passed, correct scripts get verified, then the best scripts awarded users with the Scripter role. Only two rounds have appeared, both in early 2022. Sounak9434 has since retired and said the competition is taxing and the channel may probably get removed.",
+    "tier": 5,
+    "description": "A programming competition by Sounak9434. Users participating has 72 hours to either create the minimal amount of scripts or the fastest execution time. After time has passed, correct scripts get verified, then the best scripts awarded users with the Scripter role. Only two rounds have appeared, both in early 2022. Sounak9434 has since retired and said the competition is taxing. The corresponding channel along with Fanweek was hidden in 2023.",
     "attachments": [],
     "credits": "u-ndefined"
   },
@@ -142,8 +144,8 @@
     "credits": "AngryRubberDucky"
   },
   "R3DZ3R Lore": {
-    "tier": 3,
-    "description": "Lots of background behind this veteran Fancade user. R3DZ3R is currently known to be one of the most featured creators in Fancade with over 90 games (including alts) in the spotlight cycle. He is also notoriously known for creating many alt accounts. There's a lot of lore behind this user due to his own followers or hobbies outside of Fancade. One of the most known ones is the art of this user, a certain innocent piece called EAT.gif was discussed a lot due to the animation being resembled to vore. Another lesser known art piece by a follower reveals that his OC isn't a flower, but is actually a red cube with red furry ears. Currently he posts daily art on Twitter, and music on YouTube under the tag @R3DZ3R_Florie.",
+    "tier": 2,
+    "description": "Lots of background behind this veteran Fancade user. R3DZ3R is currently known to be one of the most featured creators in Fancade with over 90 games (including alts) in the spotlight cycle. He is also notoriously known for creating many alt accounts. There's a lot of lore behind this user due to his own followers or hobbies outside of Fancade. One of the most known ones is the art of this user, a certain innocent piece called EAT.gif was discussed a lot due to the animation being resembled to vore. Another lesser known art piece by a follower reveals that his OC isn't a flower, but is actually a red cube with red furry ears. He has changed his name, and currently posts daily art on Twitter, and occasionally music on YouTube under the tag @artifyber. ",
     "attachments": [],
     "credits": "AngryRubberDucky / u-ndefined"
   },
@@ -227,7 +229,7 @@
   },
   "Web search": {
     "tier": 5,
-    "description": "Web search used to be available, but it has shut down since August 11, 2021. It was more versatile as regex expressions were allowed on the search. However, it would take within 48 hours before the search engine can index it.",
+    "description": "Web search used to be available, but it has shut down since August 11, 2021. It was more versatile as regex expressions were allowed on the search. However, it would take within 48 hours of publishing before the search engine can index a game. ",
     "attachments": [],
     "credits": "u-ndefined"
   },
@@ -349,9 +351,11 @@
   },
   "\"30 miljoner nedladdningar\"": {
     "tier": 9,
-    "description": "Lesser known Swedish interview with Martin that discusses his success with Mekorama and his plans with Fancade. Went unnoticed and was advertised by Martin less compared to Martin's mini-documentary. ",
-    "attachments": [],
-    "credits": "AngryRubberDucky"
+    "description": "Lesser known Swedish interview with Martin that discusses his success with Mekorama and his plans with Fancade. Went unnoticed and was advertised by Martin less compared to Martin's mini-documentary.",
+    "attachments": [
+      "https://podcasters.spotify.com/pod/show/esg-podden/episodes/30-miljoner-nedladdningar-med-Martin-Magni-DEL-1-e1ngpea"
+    ],
+    "credits": "AngryRubberDucky / u-ndefined"
   },
   "Music Easter egg": {
     "tier": 9,
@@ -395,5 +399,41 @@
       "https://media.discordapp.net/attachments/849514514374066218/1112062333557153904/Screenshot_2023-05-28-00-58-16-312_com.android.chrome-edit.jpg"
     ],
     "credits": "AngryRubberDucky / MrCrocodile"
+  },
+  "ViteC Play": {
+    "tier": 3,
+    "description": "A popular Russian YouTuber and streamer who plays games. He has recently started to play Fancade, which was responsible for spawning games with titles such as \"Vpvp\".",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "#battle-quest": {
+    "tier": 4,
+    "description": "Formerly #quest, it is a hidden channel for users who have at least one of their games placed into Quest or Battle.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "Bubbles": {
+    "tier": 4,
+    "description": "An arcade game by RF, once put into Quest. The game was so notorious due to the requirement of reaching 10,000 points just to earn 20 stars. Players felt it was more luck-based than strategy-based so Martin Magni decided to remove it in Fancade v1.1.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "#gotd": {
+    "tier": 5,
+    "description": "A channel given for those people who have the Curator role, as a way to suggest games to be featured at Game of the Day.",
+    "attachments": [],
+    "credits": "u-ndefined"
+  },
+  "Nash Neefus": {
+    "tier": 6,
+    "description": "A veteran Fancade user who was banned for being a minor. He was able to stay unnoticed for a very long time. Unbanned on 05/20/2023 (UTC+0)",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
+  },
+  "Brownzer": {
+    "tier": 8,
+    "description": "Of the usernames ending with -Z3R, this one was a troll account with the username resembling the n-word, played off as a fan account of R3DZ3R. Was banned quickly, but found to be in MediaPlayDiscord.",
+    "attachments": [],
+    "credits": "AngryRubberDucky / u-ndefined"
   }
 }
