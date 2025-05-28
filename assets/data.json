@@ -418,11 +418,11 @@
     "attachments": [],
     "credits": "u-ndefined"
   },
-  "Nash Neefus": {
-    "tier": 6,
-    "description": "A veteran Fancade user who was banned for being a minor. He was able to stay unnoticed for a very long time. Unbanned on 05/20/2023 (UTC+0)",
-    "attachments": [],
-    "credits": "AngryRubberDucky / u-ndefined"
+  "u/gbrlwstssn": { 
+    "tier": 7, 
+    "description": "It is a widely known fact that Martin's mother, Gunnell Magnusson, is also a Fancade creator (See \"GM tutorials\"). However, a recent Reddit comment reveals that Martin is an uncle to a boy that is also a fancade player/creator.",
+    "attachments": ["https://www.reddit.com/r/Fancade/comments/1hv1gmv/comment/m5xwx8t"],
+    "credits": "AngryRubberDucky / Bricked" 
   },
   "Brownzer": {
     "tier": 8,
