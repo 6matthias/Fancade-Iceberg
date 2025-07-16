@@ -374,11 +374,23 @@
     ],
     "credits": "Anonymous / Just Kirb"
   },
-  "Messages/Message games": {
-    "tier": 1,
-    "description": "Messages or message games is a way Fancade users that don't have any chatting programs, such as Discord can exchange messages with each other. They are really simple: Just a flat background with some comment blocks that form sentences. The messages started in around May of 2022.",
-    "attachments": [],
-    "credits": "Pixel8453"
+  "Message games": {        
+    "tier": 1,        
+    "description": "Beginning around May of 2022 (but being present since 2020 or potentially earlier), message games are a form of communication between users who refuse to use a separate messaging service either due to being underage or simply the lack of will. They are known for being published in large masses, so much so that they quickly bury any other type of games, making it harder to gain traction. \n\nEfforts were made in March/May 2025 to purge message games and message game creators from the platform, which led to a negative and hostile reaction from the message game community. Furthermore, message games are still present at a considerable volume, but efforts are still being made to purge them.",        
+    "attachments": [],        
+    "credits": "Parf"      
+  },
+  "Project: Kill Influence": {        
+    "tier": 2,        
+    "description": "Project: Kill Influence (referred to the public as \"Kill Influence\") is a movement started by Fancade user Parf, in an effort to clean up the Influence tab from any spam and help creators get their games published quicker.The movement was met with positive feedback. However, after a few months of activity, it slowly died out. People were not reviewing anymore.Efforts were made to bring back activity to the movement, to no avail. Eventually the team disbanded.There are plans to restart the movement.",        
+    "attachments": [],        
+    "credits": "Parf"      
+  }, 
+   "Closed beta program": {        
+     "tier": 1,        
+     "description": "In May of 2025, the closed beta program was finally made public and accepted invitations for a limited time. A relatively small number of individuals applied.Initially, the program was intended to be throughly revewing all the applications signed, however, it was ultimately decided that all applicants would get accepted into the program, regardless of if their application was of good quality or not. This is presumably due to a lack of applicants.",        
+     "attachments": [],        
+     "credits": "Parf"      
   },
   "Characters": {
     "tier": 6,
