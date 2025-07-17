@@ -283,9 +283,9 @@
     "attachments": [],
     "credits": "AngryRubberDucky"
   },
-  "status-0 (1022)": {
+  "status-0": {
     "tier": 7,
-    "description": "Supposedly rare FC PC bug that infects your project and locks it from ever being published/updated, this bugs effects the core of the project and there is nothing the user can do to fix it unless everything is copied to another fresh new project. The bug may still appear again, even after the migration of the of game's internals.\n...Or at least that's what everybody thought, the real problem was that the character '?' in the description blocked the game from being published and resulted in that error code. Bug fix was found by user LukaszM. ",
+    "description": "This is the error that you will get when there is a publishing bug within your project and can often lock your game from being released. There are multiple errors of this kind, all indicated with a unique 4 number code. HOWEVER, there are rare occurrences where said code is not served, making it much harder to fix, locking your project indefinitely. \n\nOne instance of this is status-0 error code 1022; Discovered by AngryRubberDucky and solved by LukaszM. This error code was SIMPLY an illegal character within the description which was the character '?'. 1022 has been fixed since.",
     "attachments": [],
     "credits": "AngryRubberDucky"
   },
@@ -382,7 +382,7 @@
   },
   "Project: Kill Influence": {        
     "tier": 2,        
-    "description": "Project: Kill Influence (referred to the public as \"Kill Influence\") is a movement started by Fancade user Parf, in an effort to clean up the Influence tab from any spam and help creators get their games published quicker.The movement was met with positive feedback. However, after a few months of activity, it slowly died out. People were not reviewing anymore.Efforts were made to bring back activity to the movement, to no avail. Eventually the team disbanded.There are plans to restart the movement.",        
+    "description": "Project: Kill Influence (referred to the public as \"Kill Influence\") is a movement started by Fancade user Parf, in an effort to clean up the Influence tab from any spam and help creators get their games published quicker. The movement was met with positive feedback. However, after a few months of activity, it slowly died out. People were not reviewing anymore. Efforts were made to bring back activity to the movement, to no avail. Eventually the team disbanded. There are plans to restart the movement.",        
     "attachments": [],        
     "credits": "Parf"      
   }, 
